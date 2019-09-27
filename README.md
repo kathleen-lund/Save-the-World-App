@@ -3,3 +3,6 @@ iOS app created with Xcode, Swift, and Firebase. Completing suggested sustainabi
 
 # Link to public repository for Save the World:
 https://github.com/milesper/SaveTheWorld.git
+
+# Link to Devpost for Save the World:
+https://devpost.com/software/save-the-world-5b4kvo
